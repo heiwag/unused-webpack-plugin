@@ -10,7 +10,7 @@ npm install -D unused-webpack-plugin
 
 ## 使用
 ```javascript
-const UnusedPlugin = require('unused-webpack-plugin')
+const UnusedPlugin = require('unused-fs-webpack-plugin')
 
 {
     ...

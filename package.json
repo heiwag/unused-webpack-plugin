@@ -1,5 +1,5 @@
 {
-  "name": "unused-webpack-plugin",
+  "name": "unused-fs-webpack-plugin",
   "version": "1.0.0",
   "author": "heiwag <zhiqiang0x0@outlook.com>",
   "description": "find unused file on webpack",
