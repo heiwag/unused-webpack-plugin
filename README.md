@@ -5,7 +5,7 @@
 ## 安装
 
 ```bash
-npm install -D unused-webpack-plugin
+npm install -D unused-fs-webpack-plugin
 ```
 
 ## 使用
