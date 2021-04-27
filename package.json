@@ -1,6 +1,6 @@
 {
   "name": "unused-fs-webpack-plugin",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": "heiwag <zhiqiang0x0@outlook.com>",
   "description": "find unused file on webpack",
   "main": "dist/index.js",
