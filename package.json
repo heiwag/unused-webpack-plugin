@@ -1,0 +1,26 @@
+{
+  "name": "unused-webpack-plugin",
+  "version": "1.0.0",
+  "author": "heiwag <zhiqiang0x0@outlook.com>",
+  "description": "find unused file on webpack",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "private": false,
+  "files": [
+    "dist/"
+  ],
+  "scripts": {
+    "build": "tsc"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@antfu/eslint-config-ts": "^0.6.4",
+    "eslint": "^7.25.0",
+    "typescript": "^4.2.4",
+    "webpack": "^5.35.1"
+  },
+  "dependencies": {
+    "fast-glob": "^3.2.5",
+    "webpack-sources": "^2.2.0"
+  }
+}
