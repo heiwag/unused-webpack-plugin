@@ -1,4 +1,4 @@
-# unused-webpack-plugin
+# unused-fs-webpack-plugin
 
 查找项目中未使用的文件，生成`unused-files.txt`文件
 
@@ -10,7 +10,7 @@ npm install -D unused-fs-webpack-plugin
 
 ## 使用
 ```javascript
-const UnusedPlugin = require('unused-fs-webpack-plugin')
+const { UnusedPlugin } = require('unused-fs-webpack-plugin')
 
 {
     ...
